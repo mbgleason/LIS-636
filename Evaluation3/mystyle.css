@@ -1,0 +1,32 @@
+body {
+  background-color: blue;
+  margin-top:25px;margin-bottom:25px;margin-right: 300px;margin-left:300px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  margin-left: 20px;
+}
+h2 {
+  color: white;
+  text-align: center;
+  margin-left: 20px;
+}
+
+ul {
+  font-family: arial;
+  font-size: 14px;
+  color: white
+}
+  ul {
+    margin-top: 25px;
+    margin-bottom:25px;
+    margin-right: 300px;
+    margin-left:300px;
+  }
+p {
+  font-family: arial;
+  font-size: 14px;
+  color: white
+}
